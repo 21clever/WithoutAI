@@ -52,4 +52,6 @@
 
 body {
 	margin: 0;
+	background: #08060e;
+	color: rgba(255, 255, 255, 0.75);
 }
